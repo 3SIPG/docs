@@ -17,7 +17,8 @@ A Eurofarma necessita de um chatbot integrado com um formulário, central de aju
 Tasks Lists dos funcionamentos
 
 # Front-End
-[] Teste
+- [] Teste
+- [] 
 
 # Back-End
-[] Teste
+- [] Teste
