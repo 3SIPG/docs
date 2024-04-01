@@ -1,6 +1,11 @@
 ### Problema
 A Eurofarma necessita de um chatbot integrado capaz de preencher um formulário, central de ajuda, presença, ajuda pro colaborador, entre outros.
 
+###Desafios
+* Presença treinamentos
+* Ferramenta info de forms
+* Ferramenta info compliance
+
 
 ### Objetivo
 - Solução simples e rápida que entregue as informações
