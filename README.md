@@ -5,6 +5,7 @@ A Eurofarma necessita de um chatbot integrado capaz de preencher um formulário,
 * Presença treinamentos
 * Ferramenta info de forms
 * Ferramenta info compliance
+* Melhorando onboards
 
 
 ### Objetivo
