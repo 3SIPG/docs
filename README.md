@@ -1,7 +1,7 @@
 ### Sobre
 * Turma 3SIPG
-* Projeto ""
-* Grupo ""
+* Projeto "Solução Eurofarma"
+* Grupo "Automatix"
 * Integrantes
 
 #
